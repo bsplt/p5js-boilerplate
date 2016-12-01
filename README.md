@@ -3,10 +3,8 @@ This repository serves as a template for writing [Processing](https://processing
 
 ## How to
 1. [Download](https://github.com/bsplt/p5js-boilerplate/download/p5js-boilerplate.zip) or clone the git.
-2. Write your Processing code into `/js/main.js`.
-You can follow the p5js [workflow](http://p5js.org/get-started/), use jQuery or write Javascript your style.
-3. Change `index.html` to your requirements.
-You can write HTML as you like and still have the Processing sketch in the background.
+2. Write your Processing code into `/js/main.js`. You can follow the p5js [workflow](http://p5js.org/get-started/), use jQuery or write Javascript your style.
+3. Change `index.html` to your requirements. You can write HTML as you like and still have the Processing sketch in the background.
 4. Launch your `index.html` and have fun.
 
 ## Included frameworks
