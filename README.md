@@ -1,5 +1,8 @@
 # p5js-boilerplate v0.2.0 
-This repository serves as a template for writing [Processing](https://processing.org/) code for web browsers. It is based on the [p5js](http://p5js.org/) framework for Javascript. The template is ready to go, so you can instantly start writing code for your project and don't have to worry about the environment. By default, the HTML canvas displaying the code gets scaled full page and resizes with the browser window.
+Write Processing just like you would in the native environment, except it works in your browser and you can put your sketch in the web. The only differnece is that you write code in Javascript instead of Java.
+
+## What it is
+This repository serves as a template for writing responsive [Processing](https://processing.org/) code for web browsers. It is based on the [p5js](http://p5js.org/) framework for Javascript. The template is ready to go, so you can instantly start writing code for your project and don't have to worry about the environment. You only have to work on one file and still have a working environment. By default, the HTML canvas displaying the code gets scaled full page and resizes with the browser window. Debugging works just as fine as in the native Processing environment when you use your browser console.
 
 ## How to
 1. [Download](https://github.com/bsplt/p5js-boilerplate/download/p5js-boilerplate.zip) or clone the git.
