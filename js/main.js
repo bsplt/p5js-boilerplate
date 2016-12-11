@@ -1,6 +1,5 @@
 function setup() {
     createCanvas(windowWidth, windowHeight);
-    $("#defaultCanvas0").addClass("p5canvas");
 }
 
 function draw() {

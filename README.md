@@ -6,7 +6,7 @@ This repository serves as a template for writing responsive [Processing](https:/
 
 ## How to
 1. [Download](https://github.com/bsplt/p5js-boilerplate/archive/master.zip) or clone the git.
-2. Write your Processing code into `/js/main.js`. You can follow the p5js [workflow](http://p5js.org/get-started/), use jQuery or write Javascript your style.
+2. Write your Processing code into `/js/main.js`. You can follow the p5js [workflow](http://p5js.org/get-started/) or write Javascript your style.
 3. Change `index.html` to your requirements (or do nothing to it). You can write HTML as you like and still have the Processing sketch in the background.
 4. Launch your `index.html` and have fun.
 
@@ -15,6 +15,5 @@ Versions used in this compilation:
 - [p5.js](http://p5js.org/) v0.5.4
 - p5.dom.js v0.2.13
 - p5.sound.js v0.3.1
-- [jQuery](https://jquery.com/) v3.1.1 (minimized)
 - [normalize.css](https://github.com/anishathalye/?normalize) v3.0.2
 - structure and HTML based on [initializr](http://www.initializr.com/) v4.0

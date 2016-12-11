@@ -56,7 +56,9 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-.p5canvas {
+/* For convenience the canvas gets attributes without a helper class.
+ * This may be not scalable but okay for the purpose of this template. */
+#defaultCanvas0 {
     position: fixed;
     top: 0;
     left: 0;
