@@ -1,4 +1,4 @@
-# p5js-boilerplate v0.2.1
+# p5js-boilerplate v0.2.2
 Write Processing just like you would in the native Processing IDE, except it works in your browser and you can put your sketch in the web. The only difference is that you write code in Javascript instead of Java.
 
 ## What it is
@@ -12,8 +12,8 @@ This repository serves as a template for writing responsive [Processing](https:/
 
 ## Included frameworks
 Versions used in this compilation:
-- [p5.js](http://p5js.org/) v0.5.4
-- p5.dom.js v0.2.13
-- p5.sound.js v0.3.1
+- [p5.js](http://p5js.org/) v0.5.11
+- p5.dom.js v0.3.3
+- p5.sound.js v0.3.2
 - [normalize.css](https://github.com/anishathalye/?normalize) v3.0.2
 - structure and HTML based on [initializr](http://www.initializr.com/) v4.0
