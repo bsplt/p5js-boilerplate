@@ -1,4 +1,4 @@
-# p5js-boilerplate v0.2.2
+# p5js-boilerplate
 Write Processing just like you would in the native Processing IDE, except it works in your browser and you can put your sketch in the web. The only difference is that you write code in Javascript instead of Java.
 
 ## What it is
