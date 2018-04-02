@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
     background(255);
-    text("P5 goes here!",10, frameCount % height);
+    text("put your p5.js code here",10, frameCount % height);
 }
 
 function windowResized() {

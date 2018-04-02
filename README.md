@@ -4,6 +4,8 @@ Write Processing just like you would in the native Processing IDE, except it wor
 ## What it is
 This repository serves as a template for writing responsive [Processing](https://processing.org/) code for web browsers. It is based on the [p5js](http://p5js.org/) framework for Javascript. The template is ready to go, so you can instantly start writing code for your project and don't have to worry about the environment. You only have to work on one file and still have a working environment. By default, the HTML canvas displaying the code gets scaled full page and resizes with the browser window. Debugging works just as fine as in the native Processing environment when you use your browser console.
 
+As this boilerplate code is meant to serve for experiments, none of the code is minified.
+
 ## How to
 1. [Download](https://github.com/bsplt/p5js-boilerplate/archive/master.zip) or clone the git.
 2. Write your Processing code into `/js/main.js`. You can follow the p5js [workflow](http://p5js.org/get-started/) or write Javascript your style.
@@ -12,8 +14,8 @@ This repository serves as a template for writing responsive [Processing](https:/
 
 ## Included frameworks
 Versions used in this compilation:
-- [p5.js](http://p5js.org/) v0.5.11
-- p5.dom.js v0.3.3
-- p5.sound.js v0.3.2
-- [normalize.css](https://github.com/anishathalye/?normalize) v3.0.2
-- structure and HTML based on [initializr](http://www.initializr.com/) v4.0
+- [p5.js](http://p5js.org/) v0.6.0
+- p5.dom.js v0.3.4
+- p5.sound.js v0.3.7
+- [normalize.css](https://github.com/anishathalye/?normalize) v8.0.0
+- structure and HTML based on [HTML5 Boilerplate](https://html5boilerplate.com/) v6.0.1
