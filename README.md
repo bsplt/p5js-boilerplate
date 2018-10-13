@@ -14,8 +14,8 @@ As this boilerplate code is meant to serve for experiments, none of the code is 
 
 ## Included frameworks
 Versions used in this compilation:
-- [p5.js](http://p5js.org/) v0.6.0
-- p5.dom.js v0.3.4
-- p5.sound.js v0.3.7
+- [p5.js](http://p5js.org/) v0.7.2
+- p5.dom.js v0.7.2
+- p5.sound.js v0.3.8
 - [normalize.css](https://github.com/anishathalye/?normalize) v8.0.0
 - structure and HTML based on [HTML5 Boilerplate](https://html5boilerplate.com/) v6.0.1
